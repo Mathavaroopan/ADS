@@ -70,7 +70,7 @@ const InputSec = () => {
                         type="number"
                         id="date"
                         name="years"
-                        placeholder="Years"
+                        placeholder="All"
                         onChange={handleFilterChange}
                     />
                 </div>   
